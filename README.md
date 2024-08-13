@@ -15,7 +15,8 @@ This Task Management project is a simple Java application that allows users to c
 ### Prerequisites
 - Java 8 or later installed on your system.
 - A development environment like IntelliJ IDEA or Eclipse.
-Technologies used:-
+  
+## Technologies used:-
 Front-End Development:
 HTML
 CSS
