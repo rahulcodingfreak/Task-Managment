@@ -17,15 +17,15 @@ This Task Management project is a simple Java application that allows users to c
 - A development environment like IntelliJ IDEA or Eclipse.
   
 ## Technologies used:-
-Front-End Development:
+1. Front-End Development:
 HTML
 CSS
 Javascript
 Angular
 BootStrap
-Back-End Development:
+2. Back-End Development:
 Java [JDK 8+]
 JDBC
 Springboot
-Database:
+3. Database:
 MySql
